@@ -18,7 +18,7 @@ func isEvenNum(num: Int){
     }
 }
 
-print("Введите число:")
+print("Введите целое число:")
 if let number = readLine() {
     if let summaInt = Int(number){
         isEvenNum(num: summaInt)
