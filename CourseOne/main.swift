@@ -7,5 +7,12 @@
 
 import Foundation
 
+enum Brand {
+    case Mercedess
+    case Ford
+    case CAT
+    case Volvo
+    case Lamborgini
+}
 
-
+enum 
